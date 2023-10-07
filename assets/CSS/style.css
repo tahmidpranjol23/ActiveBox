@@ -126,8 +126,7 @@ header{
     transform: scale(0);
     transition: all linear 0.5s;
 }
-.work_overlay h5,
-.work_overlay p{
+.work_overlay h5, .work_overlay p{
     color: white;
 }
 .work_img:hover .work_overlay{
